@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/scicoqa/commit/463162906459be508ed4a2294fcaede9fa072036",
       "git:hexsha": "463162906459be508ed4a2294fcaede9fa072036",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T10:50:30.123664+00:00"
     }
   ]
 }
