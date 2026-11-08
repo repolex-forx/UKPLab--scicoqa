@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "scicoqa",
+  "versions": [
+    {
+      "commit": "463162906459be508ed4a2294fcaede9fa072036",
+      "tag": "",
+      "parsed_at": "2026-11-08T10:50:30.181125+00:00"
+    }
+  ]
+}
